@@ -1,0 +1,66 @@
+/* body styling */
+body{
+    font-family: 'Poppins',
+    sans-serif;
+    
+}
+/* span color styling */
+.orange-color{
+    color: orange;
+}
+
+/* 1st heading styling */
+h1{
+    font-size: 50px;
+}
+
+/* 1st div's h3 styling */
+h3{
+    font-size: 20px;
+}
+
+/* 1st div class styling */
+.half-width{
+    width: 50%;
+    
+    text-align: justify;
+    padding-left: 2%;
+}
+/* 2nd div img class styling*/
+.half-width img{
+    width:80%;
+    text-align: justify;
+}
+
+/* 1st section class styling */
+.top-banner{
+    background-image: url(../image/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-bottom: 150px;
+}
+
+/* 2nd section class styling */
+
+.dream-big{
+    margin-bottom: 150px;
+    background-image: url(../image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+}
+
+/* button styling */
+.link-button{
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(255, 94, 0),tomato);
+    color: white;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-top: 10px;
+    font-weight: 400;
+
+}
